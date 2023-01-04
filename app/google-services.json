@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169864352129",
+    "firebase_url": "https://chat-central-3f308-default-rtdb.firebaseio.com",
+    "project_id": "chat-central-3f308",
+    "storage_bucket": "chat-central-3f308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169864352129:android:c987006b01afc3a5af1880",
+        "android_client_info": {
+          "package_name": "com.example.chatcentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169864352129-gqarvj020cg006g7opv561pb428illd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatcentral",
+            "certificate_hash": "49bc476d3c8b47c4525cb6d3dc164b72ae201ed7"
+          }
+        },
+        {
+          "client_id": "169864352129-91a1s552gvebkcafnkucijjhfeviehof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2D9k7KBMuvEM0Byk15IynD3OUSgEfH8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169864352129-91a1s552gvebkcafnkucijjhfeviehof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
